@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a633c163-ea87-47a3-8b8e-3ee34dd2b967" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/ACM/BookSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/ACM/balanceNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/BackTracking/Splitpalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/BackTracking/fullpermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/BinaryTree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/BinaryTree/diameterOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/BinaryTree/flatten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/BinaryTree/inorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/BinaryTree/invertTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/BinaryTree/isSymmetric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/BinaryTree/isValidBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/BinaryTree/kthSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/BinaryTree/levelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/BinaryTree/maxDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/BinaryTree/rightSideView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/BinaryTree/sortedArrayToBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/DoublePointer/maxArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/DoublePointer/moveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/DoublePointer/threeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/DoublePointer/trap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/Hash/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/Hash/LongestConsecutive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/Hash/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/ListNode/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/ListNode/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/ListNode/addTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/ListNode/getIntersectionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/ListNode/hasCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/ListNode/hasCycle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/ListNode/isPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/ListNode/mergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/ListNode/removeNthFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/ListNode/reverseKGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/ListNode/reverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/ListNode/swapPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/Multidimensionaldynamicprogramming/longestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/OrdinaryArray/firstMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/OrdinaryArray/maxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/OrdinaryArray/merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/OrdinaryArray/productExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/OrdinaryArray/rotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/SlidingWindow/findAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/SlidingWindow/lengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/Substring/maxSlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/Substring/minWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/Substring/subarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/Hot100/matrix/spiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/LeetCode/LC165.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/LeetCode/LC491.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/TreeNode/LevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/TreeNode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/TreeNode/Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/TreeNode/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/TreeNode/findFrequentTreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/testcode/AlternateLogPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/testcode/Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/testcode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/perfectcode/aida2/debug_test/testcode/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Inversionor"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:Inversionor/coding.git",
+    "accountId": "b23e974a-3f94-46c8-997e-868305808d35"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2oVcVq2cUfzrTCtd489icuYA8ZT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a633c163-ea87-47a3-8b8e-3ee34dd2b967" name="Changes" comment="" />
+      <created>1730958209738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730958209738</updated>
+      <workItem from="1730958210895" duration="422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
