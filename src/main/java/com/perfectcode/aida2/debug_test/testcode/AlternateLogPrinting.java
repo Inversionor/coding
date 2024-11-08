@@ -42,7 +42,6 @@ public class AlternateLogPrinting {
                             Thread.currentThread().interrupt();
                         }
                     }
-                    log.info("this is log info from thread 2");
                     isFirstThreadTurn = true; // 切换打印控制权
                     lock.notify(); // 当一个线程执行 notify()，它会唤醒一个等待在这个 lock 上的线程。
                 }
