@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * 跳跃游戏
- * s
+ * 思路：我们在遍历数组的同时，维护最右可以到达的位置 mx
  */
 public class canJump {
     public boolean canJump(int[] nums) {
