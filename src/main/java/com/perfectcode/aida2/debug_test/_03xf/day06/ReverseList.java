@@ -1,21 +1,12 @@
 package com.perfectcode.aida2.debug_test._03xf.day06;
 
-import com.perfectcode.aida2.debug_test.Hot100.ListNode.ListNode;
+import com.perfectcode.aida2.debug_test._03xf.day06.ListNode;
 
 /**
  * 206. 反转链表
  * 静态内部类
  */
 public class ReverseList {
-    // 定义静态内部类
-    public static class ListNode {
-        int val;
-        ListNode next;
-        ListNode() {}
-        ListNode(int val) { this.val = val; }
-        ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-    }
-
     // 反转链表方法
     public ListNode reverseList(ListNode head) {
         if (head == null || head.next == null) {

@@ -1,26 +1,11 @@
 package com.perfectcode.aida2.debug_test._03xf.day06;
+import com.perfectcode.aida2.debug_test._03xf.day06.ListNode;
 
 /**
  * 445.两数相加2
  */
 
 public class addTwoNumbers {
-    public static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode() {
-        }
-
-        ListNode(int val) {
-            this.val = val;
-        }
-
-        ListNode(int val, ListNode next) {
-            this.val = val;
-            this.next = next;
-        }
-    }
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         l1 = reverseList(l1);
         l2 = reverseList(l2);

@@ -7,19 +7,6 @@ import lombok.val;
  */
 
 public class doubleIt {
-    public static class ListNode {
-        int val;
-        ListNode next;
-        ListNode() {
-        }
-        ListNode(int val) {
-            this.val = val;
-        }
-        ListNode(int val, ListNode next) {
-            this.val = val;
-            this.next = next;
-        }
-    }
     public ListNode doubleIt(ListNode head) {
         head = reverList(head);
         int carry = 0;

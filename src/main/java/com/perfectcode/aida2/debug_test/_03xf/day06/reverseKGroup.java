@@ -5,22 +5,6 @@ package com.perfectcode.aida2.debug_test._03xf.day06;
  */
 
 public class reverseKGroup {
-    public static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode() {
-        }
-
-        ListNode(int val) {
-            this.val = val;
-        }
-
-        ListNode(int val, ListNode next) {
-            this.val = val;
-            this.next = next;
-        }
-    }
     public ListNode reverseKGroup(ListNode head, int k) {
         // Step 1: Count the total number of nodes
         ListNode count = head;
