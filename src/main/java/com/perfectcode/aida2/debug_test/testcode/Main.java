@@ -29,7 +29,7 @@ public class Main {
         /**
          * 通过lambda表达式实现runnable接口的线程启动
          */
-        new Thread(() -> {log.info("this is a log info");}).start();
+        new Thread(() -> log.info("this is a log info")).start();
         /**
          * 通过匿名类实现线程启动1
          */
