@@ -1,21 +1,32 @@
 package com.perfectcode.aida2.debug_test.testcode;
 
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 public class test {
     public static void main(String[] args) {
-        Integer[] numbers = {1, 2, 3, 4, 5};
-
-
-        List modifiableList = Arrays.asList(numbers);
-
-        modifiableList.set(0, 10); // 将第一个元素从1改为10
-        Object[] array = modifiableList.toArray();
-        for (Object o : array){
-            System.out.println(o);
+        Map<Student, Integer> map = new TreeMap<>(new Comparator<Student>() {
+            public int compare(Student p1, Student p2) {
+                return p1.score > p2.score ? -1 : 1;
+            }
+        });
+        map.put(new Student("Tom", 77), 1);
+        map.put(new Student("Bob", 66), 2);
+        map.put(new Student("Lily", 99), 3);
+        for (Student key : map.keySet()) {
+            System.out.println(key);
         }
+        System.out.println(map.get(new Student("Bob", 66))); // null?
+    }
+}
 
-        System.out.println(modifiableList);
+class Student {
+    public String name;
+    public int score;
+    Student(String name, int score) {
+        this.name = name;
+        this.score = score;
+    }
+    public String toString() {
+        return String.format("{%s: score=%d}", name, score);
     }
 }
