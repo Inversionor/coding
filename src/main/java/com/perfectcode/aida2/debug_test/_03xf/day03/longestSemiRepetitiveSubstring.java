@@ -1,6 +1,5 @@
 package com.perfectcode.aida2.debug_test._03xf.day03;
 
-import lombok.var;
 
 /**
  * 2730.找到最长的半重复字符串
